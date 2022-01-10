@@ -2155,6 +2155,11 @@ ul.icons-list li i {
 	transition: color 0.4s;
 }
 
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 100%;
+}
 .gray-icon.icon-effect-2 {
 	color: #444;
 	box-shadow: 0 0 0 3px #444;
